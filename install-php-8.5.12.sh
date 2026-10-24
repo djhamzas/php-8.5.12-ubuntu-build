@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+# HAMZA BEKHTI hamza@univ-boumerdes.dz
 # install-php-8.5.12.sh
 # Fresh install of PHP 8.5.12 (built from official source) on Ubuntu 24.04 / 26.04.
 # Removes any previously installed PHP (apt packages, PPA, old source builds).
